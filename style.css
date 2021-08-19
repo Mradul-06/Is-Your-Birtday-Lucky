@@ -6,7 +6,8 @@ body{
     background-color: var(--primary-dark);
     display:flexbox;
     margin:auto;
-    color:var(--primary-color)
+    color:var(--primary-color);
+    
 }
 .container{
     text-align: center;
@@ -24,6 +25,4 @@ label{
 button{
     margin-top:1rem;
     background :transparent
-
-
 }
